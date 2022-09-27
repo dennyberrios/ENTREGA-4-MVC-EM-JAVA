@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+html, body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form-c{
+    width: 400px;
+}
+.btn-sub{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
